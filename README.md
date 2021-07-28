@@ -12,10 +12,12 @@ Initial ideas for product development:
 ## Initial product renders
 
 The product idea was first designed by one of our designers in Autodesk, and was soon made into a proper PCB.
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| <img src="/docs/render_3.jpg?raw=true">  | <img src="/docs/render_1.jpg?raw=true"> | <img src="/docs/render_2.jpg?raw=true"> |
 
-<img src="/docs/render_3.jpg?raw=true">
-<img src="/docs/render_1.jpg?raw=true">
-<img src="/docs/render_2.jpg?raw=true">
+
+
 
 ## First working product
 
