@@ -13,23 +13,23 @@ Initial ideas for product development:
 
 The product idea was first designed by one of our designers in Autodesk, and was soon made into a proper PCB.
 
-<img src="/docs/render_3.jpg?raw=true" width="30%" >
-<img src="/docs/render_1.jpg?raw=true" width="30%">
-<img src="/docs/render_2.jpg?raw=true" width="30%">
+<img src="/docs/render_3.jpg?raw=true">
+<img src="/docs/render_1.jpg?raw=true" width="50%">
+<img src="/docs/render_2.jpg?raw=true" width="50%">
 
 ## First working product
 
 After some development, we were soon able to print and assemble the product for early testing and development.
 
-<img src="/docs/product_1.jpg?raw=true" width="45%" >
-<img src="/docs/product_2.jpg?raw=true" width="45%">
+<img src="/docs/product_1.jpg?raw=true" width="50%" >
+<img src="/docs/product_2.jpg?raw=true" width="50%">
 
 ## Designing an enclosure
 
 After having a first working demo, we decided to also create a custom enclosure for the item. Here are some first design renders.
 
-<img src="/docs/case_3.jpg?raw=true" width="30%" >
-<img src="/docs/case_2.jpg?raw=true" width="30%">
-<img src="/docs/case_1.jpg?raw=true" width="30%">
+<img src="/docs/case_3.jpg?raw=true" width="20%" >
+<img src="/docs/case_2.jpg?raw=true" width="20%">
+<img src="/docs/case_1.jpg?raw=true" width="20%">
 
 &copy; 2021 - Kevin Baron Lah, Matic Šulc
